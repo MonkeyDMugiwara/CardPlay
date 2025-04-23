@@ -26,7 +26,7 @@ Ce projet a été réalisé dans le cadre de notre deuxième année de Licence I
 
 ### 1. Cloner le dépôt
 ```bash
-git clone https://github.com/laprise221/projetLicence2.git
+git clone https://github.com/MonkeyDMugiwara/CardPlay
 cd projetLicence2
 npm install
 ```
