@@ -6,7 +6,7 @@ Ce projet est une application web permettant de jouer à plusieurs jeux de carte
 - ⚔️ **Bataille ouverte**
 - 🃏 **8 américain**
 
-Ce projet a été réalisé dans le cadre de notre deuxième année de Licence Informatique, en collaboration avec **Dogukan Tokmak**, **Sofiane Hammar**, **Sami Chbicheb** et moi-même **Aly Hachem Reda**.
+Ce projet a été réalisé dans le cadre de notre deuxième année de Licence Informatique, en collaboration avec **Aly Hachem Reda**, **Sofiane Hammar**, **Sami Chbicheb** et moi-même **Dogukan Tokmak**.
 
 ## 🚀 Objectifs du projet
 
